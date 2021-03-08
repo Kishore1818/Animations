@@ -1,5 +1,5 @@
 # Animations
-COVID-19 Weekly Confirmed cases
+COVID-19 Analaysis (CUT and Paste the link in new URL)
 
 file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_global_weekly_deaths_animation.html
 
