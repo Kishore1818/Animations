@@ -11,4 +11,4 @@ COVID-19 Weekly Confirmed cases (cut and paste the link into URL):
 
 COVID-19 Global Deaths Tree map (cut and paste the link into URL):
 
-file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_global_deaths_confirmed_treemap1.html
+    file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_global_deaths_confirmed_treemap1.html
