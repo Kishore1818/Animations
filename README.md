@@ -7,7 +7,7 @@ COVID-19 Global Weekly Deaths animation (Cut and Paste the link into URL):
 
 COVID-19 Weekly Confirmed cases (cut and paste the link into URL):
 
-file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_vbar.gif
+    file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_vbar.gif
 
 COVID-19 Global Deaths Tree map (cut and paste the link into URL):
 
