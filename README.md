@@ -26,3 +26,4 @@ COVID-19 Global Choropleth Confirmed cases animation (cut and paste the link int
     file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_choropleth_confirmed_animation.png
     
     
+    
