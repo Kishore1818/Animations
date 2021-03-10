@@ -21,4 +21,8 @@ COVID-19 Global Confirmed cases Tree map (cut and paste the link into URL):
 
     file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_global_deaths_confirmed_treemap1.html
     
+COVID-19 Global Choropleth Confirmed cases animation (cut and paste the link into URL):
+
+    file:///Users/preethamvignesh/Downloads/Covid19-master/animations/covid_choropleth_confirmed_animation.png
+    
     
