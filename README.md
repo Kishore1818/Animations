@@ -13,3 +13,6 @@ COVID-19 Analaysis
 ## Animation 4
 <img src="https://github.com/Kishore1818/Animations/blob/8dbd3f7405871afbf3b9433f1b5ef8e3f18175e0/covid_cum_deathsdly_pie_animation.gif">
 
+## Animation 5
+<img src="https://github.com/Kishore1818/Animations/blob/e1aa78c6f32e4cd9bac1215ecf2f1ce8d21d30ec/covid_mnly_country_continent_deaths_animation.png">
+
