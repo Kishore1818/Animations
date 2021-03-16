@@ -9,3 +9,7 @@ COVID-19 Analaysis
 
 ## Animation 3
 <img src="https://github.com/Kishore1818/Animations/blob/8a07af02b27ec0b068e4773ed876d12bc0ab775c/covid_choropleth_confirmed_animation.png">
+
+## Animation 4
+<img src="https://github.com/Kishore1818/Animations/blob/8dbd3f7405871afbf3b9433f1b5ef8e3f18175e0/covid_cum_deathsdly_pie_animation.gif">
+
