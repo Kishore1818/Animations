@@ -16,3 +16,6 @@ COVID-19 Analaysis
 ## Animation 5
 <img src="https://github.com/Kishore1818/Animations/blob/e1aa78c6f32e4cd9bac1215ecf2f1ce8d21d30ec/covid_mnly_country_continent_deaths_animation.png">
 
+## Animation 6
+[<img src="https://github.com/Kishore1818/Animations/blob/2d281dd00fbe1e95e75bab17510892a609883ae4/pictures/covid_confirmed_deaths_pieplt.png">](covid_today_cntry_continent_deaths_confirmed_pie_plt.html)
+
