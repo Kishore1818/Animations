@@ -23,5 +23,4 @@ COVID-19 Analaysis
 [<img src="https://github.com/Kishore1818/Animations/blob/c1df82f1aa989befb452075b3b27dc632bf9bcef/pictures/covid_deaths_perticularday.png">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_pieplot.html)
 
 ## Interactive Plot
-[<img src="https://github.com/Kishore1818/Animations/blob/c1df82f1aa989befb452075b3b27dc632bf9bcef/pictures/covid_deaths_perticularday.png">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_pieplot.html)
 
