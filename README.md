@@ -24,4 +24,3 @@ COVID-19 Analaysis
 
 ## Interactive Plot
 [<img src="https://github.com/Kishore1818/Animations/blob/86f64d4f0d86e92add1903d5a0bbca0e4c975b92/pictures/covid_prsntday_deaths_confirmed_hbar_plt.png">](https://kishore1818.github.io/Animations/covid_prsntday_deaths_confirmed_hbar_plt.html)
-
