@@ -8,4 +8,4 @@ USA COVID-19 Analysis
 [<img src="https://github.com/Kishore1818/Animations/blob/8c5870c577fa30231300ff7ed7ad39c74aa09fba/USA_covid/sample_pics/covid_deaths_dailybars_USA.png">](https://kishore1818.github.io/Animations/USA_covid/covid_deaths_dailybars_USA.html)
 
 ## Animation 1
-[<img src="https://github.com/Kishore1818/Animations/blob/1b1ae2ff291931874fff6872c3a15cd16d3750a9/pictures/Global_weekly_deaths_sample.png">](https://kishore1818.github.io/Animations/covid_global_weekly_deaths_animation.html)
+[<img src="https://github.com/Kishore1818/Animations/blob/137e2f3ba807f0d9fa6b134043e39fd7d0dffc7d/USA_covid/sample_pics/covid_usa_cum_deaths_daily_deaths.png">](https://kishore1818.github.io/Animations/USA_covid/covid_usa_cumulative_daily_deaths_confirmed_plt.html)
