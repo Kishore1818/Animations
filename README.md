@@ -11,9 +11,12 @@ COVID-19 Analaysis
 <img src="https://github.com/Kishore1818/Animations/blob/8a07af02b27ec0b068e4773ed876d12bc0ab775c/covid_choropleth_confirmed_animation.png">
 
 ## Animation 4
-<img src="https://github.com/Kishore1818/Animations/blob/8dbd3f7405871afbf3b9433f1b5ef8e3f18175e0/covid_cum_deathsdly_pie_animation.gif">
+<img src="https://github.com/Kishore1818/Animations/blob/f8d53ac5d38da9a0732155174fc33097edb0193c/covid_mnly_deaths_running_hbars.gif">
 
 ## Animation 5
+<img src="https://github.com/Kishore1818/Animations/blob/8dbd3f7405871afbf3b9433f1b5ef8e3f18175e0/covid_cum_deathsdly_pie_animation.gif">
+
+## Animation 6
 <img src="https://github.com/Kishore1818/Animations/blob/e1aa78c6f32e4cd9bac1215ecf2f1ce8d21d30ec/covid_mnly_country_continent_deaths_animation.png">
 
 ## Interactive plot 1
@@ -25,11 +28,10 @@ COVID-19 Analaysis
 ## Interactive Plot 3
 [<img src="https://github.com/Kishore1818/Animations/blob/86f64d4f0d86e92add1903d5a0bbca0e4c975b92/pictures/covid_prsntday_deaths_confirmed_hbar_plt.png">](https://kishore1818.github.io/Animations/covid_prsntday_deaths_confirmed_hbar_plt.html)
 
-## Animation 6
+## Animation 7
 [<img src="https://github.com/Kishore1818/Animations/blob/9da8352bc6565872b4c442ab0850d055b16be959/pictures/covid_global_deaths_confirmed_adjust_overtime.png">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_lineplt_overtime_global.html)
 
-## Animation 7
+## Animation 8
 [<img src="https://github.com/Kishore1818/Animations/blob/ade8c6be683f2544af0c6ea4661435cedaf7bbee/pictures/covid_weekly_continent_histo_deaths_anim.png">](https://kishore1818.github.io/Animations/covid_weekly_continent_histo_deaths_anim.html)
 
-## Animation 8
-<img src="https://github.com/Kishore1818/Animations/blob/f8d53ac5d38da9a0732155174fc33097edb0193c/covid_mnly_deaths_running_hbars.gif">
+
