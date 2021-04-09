@@ -20,7 +20,7 @@ COVID-19 Analaysis
 <img src="https://github.com/Kishore1818/Animations/blob/e1aa78c6f32e4cd9bac1215ecf2f1ce8d21d30ec/covid_mnly_country_continent_deaths_animation.png">
 
 ## Animation 7
-<img src="https://github.com/Kishore1818/Animations/blob/f8d53ac5d38da9a0732155174fc33097edb0193c/covid_mnly_deaths_running_hbars.gif">
+<img src="https://github.com/Kishore1818/Animations/blob/255599811c068f9b5aa2f4c30a907c5754d3c0af/covid_mnly_deaths_running_vbars.gif">
 
 ## Interactive plot 1
 [<img src="https://github.com/Kishore1818/Animations/blob/2d281dd00fbe1e95e75bab17510892a609883ae4/pictures/covid_confirmed_deaths_pieplt.png">](https://kishore1818.github.io/Animations/covid_today_cntry_continent_deaths_confirmed_pie_plt.html)
