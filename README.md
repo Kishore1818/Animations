@@ -30,3 +30,6 @@ COVID-19 Analaysis
 
 ## Animation 7
 [<img src="https://github.com/Kishore1818/Animations/blob/ade8c6be683f2544af0c6ea4661435cedaf7bbee/pictures/covid_weekly_continent_histo_deaths_anim.png">](https://kishore1818.github.io/Animations/covid_weekly_continent_histo_deaths_anim.html)
+
+## Animation 8
+<img src="https://github.com/Kishore1818/Animations/blob/8dbd3f7405871afbf3b9433f1b5ef8e3f18175e0/covid_cum_deathsdly_pie_animation.gif">
