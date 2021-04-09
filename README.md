@@ -14,7 +14,7 @@ COVID-19 Analaysis
 <img src="https://github.com/Kishore1818/Animations/blob/f8d53ac5d38da9a0732155174fc33097edb0193c/covid_mnly_deaths_running_hbars.gif">
 
 ## Animation 5
-<img src="https://github.com/Kishore1818/Animations/blob/8dbd3f7405871afbf3b9433f1b5ef8e3f18175e0/covid_cum_deathsdly_pie_animation.gif">
+<img src="https://github.com/Kishore1818/Animations/blob/b4e9f1ea6c905907abfbce709c97baeda834d20c/covid_cum_deathsdly_pie_animation.gif">
 
 ## Animation 6
 <img src="https://github.com/Kishore1818/Animations/blob/e1aa78c6f32e4cd9bac1215ecf2f1ce8d21d30ec/covid_mnly_country_continent_deaths_animation.png">
