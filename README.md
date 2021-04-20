@@ -8,7 +8,7 @@ COVID-19 Analaysis
 [<img src="https://github.com/Kishore1818/Animations/blob/f77d34d8d9c2e7eb2d24a593f24dda0586e3ff67/pictures/covid_global_deaths_confirmed_treemap.png">](https://kishore1818.github.io/Animations/covid_global_deaths_confirmed_treemap.html)
 
 ## Animation 3
-<img src="https://github.com/Kishore1818/Animations/blob/8a07af02b27ec0b068e4773ed876d12bc0ab775c/covid_choropleth_confirmed_animation.png">
+<img src="https://github.com/Kishore1818/Animations/blob/d854667820df0a49e74edb415347d38ee76da1f0/covid_choropleth_deaths_animation.png">
 
 ## Animation 4
 <img src="https://github.com/Kishore1818/Animations/blob/f8d53ac5d38da9a0732155174fc33097edb0193c/covid_mnly_deaths_running_hbars.gif">
