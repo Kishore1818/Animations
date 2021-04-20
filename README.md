@@ -47,4 +47,4 @@ COVID-19 Analaysis
 <img src="https://github.com/Kishore1818/Animations/blob/41b37874f476cced325af28843bbadc87250ceb6/covid_continents_7drun_lineplt_animation.gif">
 
 ## Animation 13
-<img src="https://github.com/Kishore1818/Animations/blob/41b37874f476cced325af28843bbadc87250ceb6/covid_continents_7drun_lineplt_animation.gif">
+<img src="https://github.com/Kishore1818/Animations/blob/4b2ffebdd85ee63182dba602e85046ce7bc8b7c4/covid_cumconfrmed_lineplt_anim.gif">
