@@ -32,7 +32,7 @@ COVID-19 Analaysis
 [<img src="https://github.com/Kishore1818/Animations/blob/e98ca1d1c479022686fdfc9a041e1f9d85c4f0c2/pictures/covid_prsntday_deaths_confirmed_hbar_plt.png">](https://kishore1818.github.io/Animations/covid_prsntday_deaths_confirmed_hbar_plt1.html)
 
 ## Animation 8
-[<img src="https://github.com/Kishore1818/Animations/blob/9da8352bc6565872b4c442ab0850d055b16be959/pictures/covid_global_deaths_confirmed_adjust_overtime.png">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_lineplt_overtime_global.html)
+[<img src="https://github.com/Kishore1818/Animations/blob/395073951b571e4cc10184a0defa686b793bb2b6/pictures/covid_deaths_confirmed_lineplt_overtime.png">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_lineplt_overtime_global.html)
 
 ## Animation 9
 [<img src="https://github.com/Kishore1818/Animations/blob/ade8c6be683f2544af0c6ea4661435cedaf7bbee/pictures/covid_weekly_continent_histo_deaths_anim.png">](https://kishore1818.github.io/Animations/covid_weekly_continent_histo_deaths_anim.html)
