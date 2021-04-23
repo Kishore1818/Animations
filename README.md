@@ -50,4 +50,4 @@ COVID-19 Analaysis
 <img src="https://github.com/Kishore1818/Animations/blob/4b2ffebdd85ee63182dba602e85046ce7bc8b7c4/covid_cumconfrmed_lineplt_anim.gif">
 
 ## Animation 14
-<img src="https://github.com/Kishore1818/Animations/blob/4b2ffebdd85ee63182dba602e85046ce7bc8b7c4/covid_cumconfrmed_lineplt_anim.gif">
+<img src="https://github.com/Kishore1818/Animations/blob/f8ce445bcd9fd57114cf4de41d33b7902f45a8b6/covid_lnept_7drolling_country_Indanim.gif">
