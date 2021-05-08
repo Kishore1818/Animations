@@ -51,3 +51,6 @@ COVID-19 Analaysis
 
 ## Animation 14
 <img src="https://github.com/Kishore1818/Animations/blob/6b575035b76d7867b91fa1f193e084d6bf3ab971/covid_lnept_7drolling_country_Indanim.gif">
+
+## Animation 15
+<img src="https://github.com/Kishore1818/Animations/blob/6b575035b76d7867b91fa1f193e084d6bf3ab971/covid_lnept_7drolling_country_Indanim.gif">
