@@ -2,7 +2,7 @@
 COVID-19 Analaysis
 
 ## Animation 1
-[<img src="https://github.com/Kishore1818/Animations/blob/979860252b4be639743e84b1e87b1c9f18978ecc/pictures/covid_global_weekly_deaths_animation.png">](https://kishore1818.github.io/Animations/covid_global_weekly_deaths_animation.html)
+[<img src="https://github.com/Kishore1818/Animations/blob/567d039e03d5f45093e5e2abb304f4524567fe1a/pictures/covid_global_weekly_deaths_animation.png">](https://kishore1818.github.io/Animations/covid_global_weekly_deaths_animation.html)
 
 ## Animation 2
 [<img src="https://github.com/Kishore1818/Animations/blob/f77d34d8d9c2e7eb2d24a593f24dda0586e3ff67/pictures/covid_global_deaths_confirmed_treemap.png">](https://kishore1818.github.io/Animations/covid_global_deaths_confirmed_treemap.html)
