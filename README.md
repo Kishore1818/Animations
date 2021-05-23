@@ -29,7 +29,7 @@ COVID-19 Analaysis
 [<img src="https://github.com/Kishore1818/Animations/blob/0cb6a7edac7a559611e25082f4c4be4bd34212ce/pictures/covid_today_deaths_confirmed_pie_plot.jpg">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_pieplot.html)
 
 ## Interactive Plot 3
-[<img src="https://github.com/Kishore1818/Animations/blob/e98ca1d1c479022686fdfc9a041e1f9d85c4f0c2/pictures/covid_prsntday_deaths_confirmed_hbar_plt.png">](https://kishore1818.github.io/Animations/covid_prsntday_deaths_confirmed_hbar_plt1.html)
+[<img src="https://github.com/Kishore1818/Animations/blob/59a2107ff608557658941be0c7b4f0aa91f37f8c/pictures/covid_prsntday_deaths_confirmed_hbar_plt1.png">](https://kishore1818.github.io/Animations/covid_prsntday_deaths_confirmed_hbar_plt1.html)
 
 ## Animation 8
 [<img src="https://github.com/Kishore1818/Animations/blob/395073951b571e4cc10184a0defa686b793bb2b6/pictures/covid_deaths_confirmed_lineplt_overtime.png">](https://kishore1818.github.io/Animations/covid_deaths_confirmed_lineplt_overtime_global.html)
