@@ -38,7 +38,7 @@ COVID-19 Analaysis
 [<img src="https://github.com/Kishore1818/Animations/blob/a1ed230dab8536c8a693d2d2591b11f3f66cc595/pictures/covid_weekly_continent_histo_deaths_animt.png">](https://kishore1818.github.io/Animations/covid_weekly_continent_histo_deaths_animt.html)
 
 ## Animation 10
-<img src="https://github.com/Kishore1818/Animations/blob/dd744aa3884cd7aae314cefdb4a1c0585f50aa8e/covid_cumdeaths_lineplt_animation.gif">
+<img src="https://github.com/Kishore1818/Animations/blob/86426a431e3f326c2bd7f87732af5b6ca1a8918e/covid_cumdeaths_lineplt_animation.gif">
 
 ## Animation 11
 <img src="https://github.com/Kishore1818/Animations/blob/7c2d532c67938155246e7b25aff0abdbbfd420e2/covid_continents_dlydeaths_lineplt_anim.gif">
