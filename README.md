@@ -10,6 +10,7 @@ COVID-19 Analaysis
 ## Animation 3
 <img src="https://github.com/Kishore1818/Animations/blob/6e315278f688bc5c2281029ddad4b2ffb1e34955/covid_choropleth_deaths_animation.png">
 
+## Animation 4
 <img src="https://github.com/Kishore1818/Animations/blob/f8d53ac5d38da9a0732155174fc33097edb0193c/covid_mnly_deaths_running_hbars.gif">
 
 ## Animation 5
