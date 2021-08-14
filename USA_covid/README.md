@@ -15,3 +15,7 @@ USA COVID-19 Analysis
 
 ## USA: Animation 3
 [<img src="https://github.com/Kishore1818/Animations/blob/f082d61a80e6256cd9732a9380846172b8e5b4a7/USA_covid/sample_pics/Covid_USstates_weekly_histo_deaths_anim.png">](https://kishore1818.github.io/Animations/USA_covid/covid_USstates_weekly_histo_deaths_anim.html)
+
+## Animation 4
+<img src="https://github.com/Kishore1818/Animations/blob/6e315278f688bc5c2281029ddad4b2ffb1e34955/covid_choropleth_deaths_animation.png">
+
