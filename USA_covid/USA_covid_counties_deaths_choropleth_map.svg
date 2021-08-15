@@ -1234,7 +1234,7 @@
 <path id="47071" d="M462.7,267.6 L462.7,267.6 L462.7,267.6 L462.7,267.6 L462.7,267.6 L462.7,267.6 Z M462.7,268.3 L462.8,267.8 L462.7,267.6 L462.7,267.6 L462.7,267.6 L464.2,267.6 L464.3,267.4 L465.0,268.1 L467.3,267.7 L468.0,269.3 L468.4,274.1 L465.4,274.3 L465.5,274.5 L464.3,274.6 L463.2,274.7 L463.2,274.7 L463.1,274.7 L463.0,274.7 L462.8,269.8 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340" />
 <path id="47077" d="M462.7,267.6 L462.7,267.6 L462.7,267.6 L462.7,267.6 L462.5,266.4 L459.0,265.1 L458.9,264.1 L458.8,261.7 L459.3,261.1 L464.6,260.8 L464.7,264.3 L464.3,267.4 L464.2,267.6 L462.7,267.6 L462.7,267.6 L462.7,267.6 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340" />
 <path id="47069" d="M456.1,268.0 L456.8,269.5 L457.1,271.0 L457.2,273.0 L457.4,275.2 L457.1,275.2 L456.9,275.2 L455.5,275.4 L454.2,275.5 L452.8,275.6 L451.7,275.7 L451.6,272.6 L451.4,268.9 L451.4,268.3 L452.8,268.2 L455.4,268.1 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340" />
-<path id="4003" d="M171.4,308.8 L171.6,308.8 L172.4,309.0 L170.2,323.6 L169.7,327.2 L166.8,326.7 L149.5,324.1 L150.3,319.4 L150.7,317.5 L151.9,310.5 L152.6,305.9 L167.0,308.1 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806" />
+<path id="4003" d="M171.4,308.8 L171.6,308.8 L172.4,309.0 L170.2,323.6 L169.7,327.2 L166.8,326.7 L149.5,324.1 L150.3,319.4 L150.7,317.5 L151.9,310.5 L152.6,305.9 L167.0,308.1 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7d4011" />
 <path id="35023" d="M172.4,309.0 L172.6,307.7 L173.2,303.1 L179.8,308.5 L178.5,319.4 L182.9,320.0 L182.8,320.7 L182.8,321.3 L181.7,328.8 L169.7,327.2 L170.2,323.6 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
 <path id="40009" d="M305.9,276.0 L304.4,277.4 L303.5,277.4 L302.8,277.3 L302.9,275.5 L302.9,274.8 L303.1,270.8 L303.1,270.8 L308.9,271.0 L311.9,269.7 L311.9,270.3 L311.9,270.4 L311.7,274.8 L311.7,276.3 L311.0,276.2 L311.0,276.3 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340" />
 <path id="40055" d="M305.9,276.0 L311.0,276.2 L311.0,276.3 L312.1,277.5 L313.1,281.3 L310.6,282.8 L307.2,282.7 L306.5,279.0 L304.4,277.4 Z" style="stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
@@ -3155,7 +3155,7 @@
 <rect id="legendbox7" x="0" y="82.10000000000001" height="7.800000000000001" width="7.800000000000001" style="fill:#998ec3;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <rect id="legendbox8" x="0" y="91.9" height="7.800000000000001" width="7.800000000000001" style="fill:#d8daeb;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <text id="legendlabel0" x="11.8" y="20.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-300-24874</text>
+300-24892</text>
 <text id="legendlabel1" x="11.8" y="30.200000000000003" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
 136-300</text>
 <text id="legendlabel2" x="11.8" y="40.0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
@@ -3176,7 +3176,7 @@
 Deaths</text>
 </g>
 <text id="title" x="489.5" y="45" style="font-style:normal;font-weight:normal;font-size:19;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
-COVID-19 Each County Deaths (3/20/20 - 8/13/21)</text>
+COVID-19 Each County Deaths (3/20/20 - 8/14/21)</text>
 <g transform="translate(10 50)">
 <g id="state_borders">
 
