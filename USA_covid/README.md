@@ -22,3 +22,5 @@ USA COVID-19 Analysis
 ## USA: County Death rate 5
 <img src="https://github.com/Kishore1818/Animations/blob/f5da1831286e8172ce0a457a4a824e13f439b54e/USA_covid/USA_covid_counties_deaths_choropleth_map_deathrate.svg">
 
+## USA: Statewise Death rate 6
+<img src="https://github.com/Kishore1818/Animations/blob/e550307d8db741b993d31ea8da48d5e5142a5f01/USA_covid/USA_covid_different_chorpleth_maps1_deathrate.svg">
