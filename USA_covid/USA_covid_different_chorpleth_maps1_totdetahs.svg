@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="410" width="630">
+<rect id="rectAK" x="30" y="60" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textAK" x="50.0" y="75" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+AK</text>
+<rect id="rectAL" x="276" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textAL" x="296.0" y="321" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+AL</text>
+<rect id="rectAR" x="194" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textAR" x="214.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+AR</text>
+<rect id="rectAZ" x="71" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
+<text id="textAZ" x="91.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+AZ</text>
+<rect id="rectCA" x="30" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7d4011" />
+<text id="textCA" x="50.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+CA</text>
+<rect id="rectCO" x="112" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textCO" x="132.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+CO</text>
+<rect id="rectCT" x="399" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textCT" x="419.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+CT</text>
+<rect id="rectDC" x="358" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textDC" x="378.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+DC</text>
+<rect id="rectDE" x="399" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textDE" x="419.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+DE</text>
+<rect id="rectFL" x="358" y="347" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340" />
+<text id="textFL" x="378.0" y="362" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+FL</text>
+<rect id="rectGA" x="317" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#542788" />
+<text id="textGA" x="337.0" y="321" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+GA</text>
+<rect id="rectHI" x="30" y="347" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textHI" x="50.0" y="362" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+HI</text>
+<rect id="rectIA" x="194" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textIA" x="214.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+IA</text>
+<rect id="rectID" x="71" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textID" x="91.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+ID</text>
+<rect id="rectIL" x="235" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#542788" />
+<text id="textIL" x="255.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+IL</text>
+<rect id="rectIN" x="235" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textIN" x="255.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+IN</text>
+<rect id="rectKS" x="153" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textKS" x="173.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+KS</text>
+<rect id="rectKY" x="235" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textKY" x="255.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+KY</text>
+<rect id="rectLA" x="194" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textLA" x="214.0" y="321" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+LA</text>
+<rect id="rectMA" x="399" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
+<text id="textMA" x="419.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MA</text>
+<rect id="rectMD" x="358" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textMD" x="378.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MD</text>
+<rect id="rectME" x="440" y="60" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textME" x="460.0" y="75" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+ME</text>
+<rect id="rectMI" x="276" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
+<text id="textMI" x="296.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MI</text>
+<rect id="rectMN" x="194" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textMN" x="214.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MN</text>
+<rect id="rectMO" x="194" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textMO" x="214.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MO</text>
+<rect id="rectMS" x="235" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textMS" x="255.0" y="321" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MS</text>
+<rect id="rectMT" x="112" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textMT" x="132.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+MT</text>
+<rect id="rectNC" x="276" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textNC" x="296.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NC</text>
+<rect id="rectND" x="153" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textND" x="173.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+ND</text>
+<rect id="rectNE" x="153" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textNE" x="173.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NE</text>
+<rect id="rectNH" x="440" y="101" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textNH" x="460.0" y="116" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NH</text>
+<rect id="rectNJ" x="358" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#542788" />
+<text id="textNJ" x="378.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NJ</text>
+<rect id="rectNM" x="112" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textNM" x="132.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NM</text>
+<rect id="rectNV" x="71" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textNV" x="91.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NV</text>
+<rect id="rectNY" x="358" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806" />
+<text id="textNY" x="378.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+NY</text>
+<rect id="rectOH" x="276" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
+<text id="textOH" x="296.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+OH</text>
+<rect id="rectOK" x="153" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textOK" x="173.0" y="321" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+OK</text>
+<rect id="rectOR" x="30" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textOR" x="50.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+OR</text>
+<rect id="rectPA" x="317" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#542788" />
+<text id="textPA" x="337.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+PA</text>
+<rect id="rectRI" x="440" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textRI" x="460.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+RI</text>
+<rect id="rectSC" x="317" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textSC" x="337.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+SC</text>
+<rect id="rectSD" x="153" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textSD" x="173.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+SD</text>
+<rect id="rectTN" x="235" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textTN" x="255.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+TN</text>
+<rect id="rectTX" x="153" y="347" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806" />
+<text id="textTX" x="173.0" y="362" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+TX</text>
+<rect id="rectUT" x="71" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textUT" x="91.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+UT</text>
+<rect id="rectVA" x="317" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textVA" x="337.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+VA</text>
+<rect id="rectVT" x="399" y="101" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textVT" x="419.0" y="116" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+VT</text>
+<rect id="rectWA" x="30" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textWA" x="50.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+WA</text>
+<rect id="rectWI" x="235" y="101" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<text id="textWI" x="255.0" y="116" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+WI</text>
+<rect id="rectWV" x="276" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textWV" x="296.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+WV</text>
+<rect id="rectWY" x="112" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<text id="textWY" x="132.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+WY</text>
+<g transform="translate(480 300)">
+<rect id="legendbox0" x="0" y="13.5" height="7.800000000000001" width="7.800000000000001" style="fill:#7d4011;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox1" x="0" y="23.3" height="7.800000000000001" width="7.800000000000001" style="fill:#b35806;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox2" x="0" y="33.1" height="7.800000000000001" width="7.800000000000001" style="fill:#c98c5d;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox3" x="0" y="42.900000000000006" height="7.800000000000001" width="7.800000000000001" style="fill:#f1a340;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox4" x="0" y="52.7" height="7.800000000000001" width="7.800000000000001" style="fill:#fee0b6;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox5" x="0" y="62.5" height="7.800000000000001" width="7.800000000000001" style="fill:#542788;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox6" x="0" y="72.30000000000001" height="7.800000000000001" width="7.800000000000001" style="fill:#7365a6;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox7" x="0" y="82.10000000000001" height="7.800000000000001" width="7.800000000000001" style="fill:#998ec3;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<rect id="legendbox8" x="0" y="91.9" height="7.800000000000001" width="7.800000000000001" style="fill:#d8daeb;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+<text id="legendlabel0" x="11.8" y="20.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+57509.0-64665.0</text>
+<text id="legendlabel1" x="11.8" y="30.200000000000003" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+50354.0-57509.0</text>
+<text id="legendlabel2" x="11.8" y="40.0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+43198.0-50354.0</text>
+<text id="legendlabel3" x="11.8" y="49.800000000000004" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+36042.0-43198.0</text>
+<text id="legendlabel4" x="11.8" y="59.6" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+28887.0-36042.0</text>
+<text id="legendlabel5" x="11.8" y="69.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+21731.0-28887.0</text>
+<text id="legendlabel6" x="11.8" y="79.20000000000002" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+14575.0-21731.0</text>
+<text id="legendlabel7" x="11.8" y="89.00000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+7420.0-14575.0</text>
+<text id="legendlabel8" x="11.8" y="98.80000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
+264.0-7420.0</text>
+<text id="legendtitle" x="0" y="0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+Deaths</text>
+</g>
+<text id="title" x="255.0" y="30" style="font-style:normal;font-weight:normal;font-size:19;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
+COVID-19 Each State Total Deaths (3/20/20 - 8/15/21)</text>
+</svg>
