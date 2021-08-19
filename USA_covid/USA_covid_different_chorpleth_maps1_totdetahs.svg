@@ -163,26 +163,26 @@ WY</text>
 <rect id="legendbox7" x="0" y="82.10000000000001" height="7.800000000000001" width="7.800000000000001" style="fill:#998ec3;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <rect id="legendbox8" x="0" y="91.9" height="7.800000000000001" width="7.800000000000001" style="fill:#d8daeb;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <text id="legendlabel0" x="11.8" y="20.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-57509.0-64665.0</text>
+57670.0-64845.0</text>
 <text id="legendlabel1" x="11.8" y="30.200000000000003" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-50354.0-57509.0</text>
+50494.0-57670.0</text>
 <text id="legendlabel2" x="11.8" y="40.0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-43198.0-50354.0</text>
+43319.0-50494.0</text>
 <text id="legendlabel3" x="11.8" y="49.800000000000004" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-36042.0-43198.0</text>
+36144.0-43319.0</text>
 <text id="legendlabel4" x="11.8" y="59.6" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-28887.0-36042.0</text>
+28968.0-36144.0</text>
 <text id="legendlabel5" x="11.8" y="69.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-21731.0-28887.0</text>
+21793.0-28968.0</text>
 <text id="legendlabel6" x="11.8" y="79.20000000000002" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-14575.0-21731.0</text>
+14618.0-21793.0</text>
 <text id="legendlabel7" x="11.8" y="89.00000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-7420.0-14575.0</text>
+7442.0-14618.0</text>
 <text id="legendlabel8" x="11.8" y="98.80000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-264.0-7420.0</text>
+267.0-7442.0</text>
 <text id="legendtitle" x="0" y="0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
 Deaths</text>
 </g>
 <text id="title" x="255.0" y="30" style="font-style:normal;font-weight:normal;font-size:19;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
-COVID-19 Each State Total Deaths (3/20/20 - 8/15/21)</text>
+COVID-19 Each State Total Deaths (3/20/20 - 8/18/21)</text>
 </svg>
