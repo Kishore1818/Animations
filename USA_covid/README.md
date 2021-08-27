@@ -32,5 +32,5 @@ USA COVID-19 Analysis
 [<img src="https://github.com/Kishore1818/Animations/blob/0a4ba9204a0b123fd1b4bbb8488cd1ce4dd4dc41/USA_covid/sample_pics/covid_deaths_dailybars_USA.png">](https://kishore1818.github.io/Animations/USA_covid/covid_deaths_dailybars_USA.html)
 
 
-## USA: County confirmed cases 11
+## USA: Each state confirmed cases 11
 <img src="https://github.com/Kishore1818/Animations/blob/bc5c97a1c952e31163defa653fc0721ec31d5d06/USA_covid/USA_covid_different_chorpleth_maps1_confcases1.svg">
