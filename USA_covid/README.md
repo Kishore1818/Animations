@@ -11,7 +11,7 @@ USA COVID-19 Analysis
 [<img src="https://github.com/Kishore1818/Animations/blob/f082d61a80e6256cd9732a9380846172b8e5b4a7/USA_covid/sample_pics/Covid_USstates_weekly_histo_deaths_anim.png">](https://kishore1818.github.io/Animations/USA_covid/covid_USstates_weekly_histo_deaths_anim.html)
 
 ## USA: Statewise Total Deaths 4
-<img src="https://github.com/Kishore1818/Animations/blob/5a539c9eeb7ddf3c746b42d6150ab811edf65389/USA_covid/USA_covid_different_chorpleth_maps1_totdetahs.svg">
+<img src="https://github.com/Kishore1818/Animations/blob/549451c2d95acc495ac98a0e9c5857f3401eb073/USA_covid/USA_covid_different_chorpleth_maps1_totdetahs.svg">
 
 ## USA: Statewise Total Confirmed cases 5
 <img src="https://github.com/Kishore1818/Animations/blob/2d9ab671e0d1f8b79e3879ba6e38c53e646349df/USA_covid/USA_covid_different_chorpleth_maps1_confcases.svg">
