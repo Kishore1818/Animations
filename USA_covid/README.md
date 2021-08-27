@@ -31,3 +31,4 @@ USA COVID-19 Analysis
 ## USA: Intearactive 10
 [<img src="https://github.com/Kishore1818/Animations/blob/0a4ba9204a0b123fd1b4bbb8488cd1ce4dd4dc41/USA_covid/sample_pics/covid_deaths_dailybars_USA.png">](https://kishore1818.github.io/Animations/USA_covid/covid_deaths_dailybars_USA.html)
 
+
