@@ -31,6 +31,8 @@ USA COVID-19 Analysis
 ## USA: Intearactive 10
 [<img src="https://github.com/Kishore1818/Animations/blob/0a4ba9204a0b123fd1b4bbb8488cd1ce4dd4dc41/USA_covid/sample_pics/covid_deaths_dailybars_USA.png">](https://kishore1818.github.io/Animations/USA_covid/covid_deaths_dailybars_USA.html)
 
-
 ## USA: Each state confirmed cases 11
 <img src="https://github.com/Kishore1818/Animations/blob/bc5c97a1c952e31163defa653fc0721ec31d5d06/USA_covid/USA_covid_different_chorpleth_maps1_confcases1.svg">
+
+## USA: Each county confirmed rate 12
+<img src="https://github.com/Kishore1818/Animations/blob/0e20ad64f1e090f7285c311077d75ce0d2d1ce6b/USA_covid/usa_covid_counties_deaths_choropleth_map_confrate.png">
