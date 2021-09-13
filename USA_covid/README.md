@@ -5,7 +5,7 @@ USA COVID-19 Analysis
 <img src="https://github.com/Kishore1818/Animations/blob/81886820c2fdf10a8c29543a9691821697e3edf9/USA_covid/USA_covid_counties_deaths_choropleth_map.svg">
 
 ## USA: Statewise COVID-19 Death rate 2
-<img src="https://github.com/Kishore1818/Animations/blob/c0fac7e1832f445cb44d6af66fd80048e610eb97/USA_covid/USA_covid_different_chorpleth_maps1_deathrate.svg">
+<img src="https://github.com/Kishore1818/Animations/blob/0ea83455d1249fe873135f62ce2826d8b0019859/USA_covid/USA_covid_different_chorpleth_maps1_deathrate.svg">
 
 ## USA: COVID-19 Animation 3
 [<img src="https://github.com/Kishore1818/Animations/blob/f082d61a80e6256cd9732a9380846172b8e5b4a7/USA_covid/sample_pics/Covid_USstates_weekly_histo_deaths_anim.png">](https://kishore1818.github.io/Animations/USA_covid/covid_USstates_weekly_histo_deaths_anim.html)
