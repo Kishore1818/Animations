@@ -14,7 +14,7 @@ USA COVID-19 Analysis
 <img src="https://github.com/Kishore1818/Animations/blob/549451c2d95acc495ac98a0e9c5857f3401eb073/USA_covid/USA_covid_different_chorpleth_maps1_totdetahs.svg">
 
 ## USA: Statewise COVID-19 Total Confirmed cases 5
-<img src="https://github.com/Kishore1818/Animations/blob/ecb6bbd0211b4d4d9142cb15e41262adf53e6d08/USA_covid/USA_covid_different_chorpleth_maps1_confcases.svg">
+<img src="https://github.com/Kishore1818/Animations/blob/0511b50d12ee5a80f734c0ed18f8ac4f3e62784e/USA_covid/USA_covid_different_chorpleth_maps1_confcases.svg">
 
 ## USA: COVID-19 County Death rate 6
 <img src="https://github.com/Kishore1818/Animations/blob/5acd2c83c2160f14b7aa04a80ab43b0433300204/USA_covid/USA_covid_counties_deaths_choropleth_map_deathrate.svg">
