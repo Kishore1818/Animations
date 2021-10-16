@@ -5,7 +5,7 @@ AK</text>
 <rect id="rectAL" x="276" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
 <text id="textAL" x="296.0" y="321" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 AL</text>
-<rect id="rectAR" x="194" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<rect id="rectAR" x="194" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
 <text id="textAR" x="214.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 AR</text>
 <rect id="rectAZ" x="71" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
@@ -26,7 +26,7 @@ DC</text>
 <rect id="rectDE" x="399" y="224" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
 <text id="textDE" x="419.0" y="239" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 DE</text>
-<rect id="rectFL" x="358" y="347" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d" />
+<rect id="rectFL" x="358" y="347" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806" />
 <text id="textFL" x="378.0" y="362" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 FL</text>
 <rect id="rectGA" x="317" y="306" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#542788" />
@@ -44,7 +44,7 @@ ID</text>
 <rect id="rectIL" x="235" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#542788" />
 <text id="textIL" x="255.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 IL</text>
-<rect id="rectIN" x="235" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<rect id="rectIN" x="235" y="183" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
 <text id="textIN" x="255.0" y="198" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 IN</text>
 <rect id="rectKS" x="153" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
@@ -80,7 +80,7 @@ MS</text>
 <rect id="rectMT" x="112" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
 <text id="textMT" x="132.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 MT</text>
-<rect id="rectNC" x="276" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
+<rect id="rectNC" x="276" y="265" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6" />
 <text id="textNC" x="296.0" y="280" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 NC</text>
 <rect id="rectND" x="153" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
@@ -140,7 +140,7 @@ VA</text>
 <rect id="rectVT" x="399" y="101" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
 <text id="textVT" x="419.0" y="116" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 VT</text>
-<rect id="rectWA" x="30" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb" />
+<rect id="rectWA" x="30" y="142" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
 <text id="textWA" x="50.0" y="157" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
 WA</text>
 <rect id="rectWI" x="235" y="101" ry="3" width="40" height="40" style="stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3" />
@@ -163,26 +163,26 @@ WY</text>
 <rect id="legendbox7" x="0" y="82.10000000000001" height="7.800000000000001" width="7.800000000000001" style="fill:#998ec3;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <rect id="legendbox8" x="0" y="91.9" height="7.800000000000001" width="7.800000000000001" style="fill:#d8daeb;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <text id="legendlabel0" x="11.8" y="20.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-59676.0-67100.0</text>
+62792.0-70598.0</text>
 <text id="legendlabel1" x="11.8" y="30.200000000000003" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-52253.0-59676.0</text>
+54986.0-62792.0</text>
 <text id="legendlabel2" x="11.8" y="40.0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-44829.0-52253.0</text>
+47180.0-54986.0</text>
 <text id="legendlabel3" x="11.8" y="49.800000000000004" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-37405.0-44829.0</text>
+39374.0-47180.0</text>
 <text id="legendlabel4" x="11.8" y="59.6" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-29982.0-37405.0</text>
+31567.0-39374.0</text>
 <text id="legendlabel5" x="11.8" y="69.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-22558.0-29982.0</text>
+23761.0-31567.0</text>
 <text id="legendlabel6" x="11.8" y="79.20000000000002" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-15134.0-22558.0</text>
+15955.0-23761.0</text>
 <text id="legendlabel7" x="11.8" y="89.00000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-7711.0-15134.0</text>
+8149.0-15955.0</text>
 <text id="legendlabel8" x="11.8" y="98.80000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-287.0-7711.0</text>
+343.0-8149.0</text>
 <text id="legendtitle" x="0" y="0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
 Deaths</text>
 </g>
 <text id="title" x="255.0" y="30" style="font-style:normal;font-weight:normal;font-size:19;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
-COVID-19 Each State Total Deaths (3/20/20 - 9/12/21)</text>
+COVID-19 Each State Total Deaths (3/20/20 - 10/15/21)</text>
 </svg>
