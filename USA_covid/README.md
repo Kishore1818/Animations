@@ -35,4 +35,4 @@ USA COVID-19 Analysis
 <img src="https://github.com/Kishore1818/Animations/blob/ccf27051c8d1ce5719c1ddb99910662e7183a02b/USA_covid/USA_covid_different_chorpleth_maps1_confcases1.svg">
 
 ## USA: Each county COVID-19 confirmed cases (%) 12
-<img src="https://github.com/Kishore1818/Animations/blob/79340156fe5f19f5f93d9791c954c7d9cd2639d6/USA_covid/usa_covid_counties_deaths_choropleth_map_confrate.png">
+<img src="https://github.com/Kishore1818/Animations/blob/b53db4bf5d19cb98f3322f627afd9034bd2b0dbc/USA_covid/usa_covid_counties_deaths_choropleth_map_confrate.png">
