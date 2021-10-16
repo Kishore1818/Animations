@@ -2,7 +2,7 @@
 USA COVID-19 Analysis
 
 ## USA: Each County COVID-19 Deaths 1
-<img src="https://github.com/Kishore1818/Animations/blob/81886820c2fdf10a8c29543a9691821697e3edf9/USA_covid/USA_covid_counties_deaths_choropleth_map.svg">
+<img src="https://github.com/Kishore1818/Animations/blob/cc010ca3da0cb13e03ecad75e7685e8b3fa19f46/USA_covid/USA_covid_counties_deaths_choropleth_map.svg">
 
 ## USA: Statewise COVID-19 Death rate 2
 <img src="https://github.com/Kishore1818/Animations/blob/0ea83455d1249fe873135f62ce2826d8b0019859/USA_covid/USA_covid_different_chorpleth_maps1_deathrate.svg">
