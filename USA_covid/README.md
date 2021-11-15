@@ -26,7 +26,7 @@ USA COVID-19 Analysis
 [<img src="https://github.com/Kishore1818/Animations/blob/c779dfe9bf42fddd0e4e412fb91392ae53a36728/USA_covid/sample_pics/covid_usa_cumulative_daily_deaths_confirmed_plt.png">](https://kishore1818.github.io/Animations/USA_covid/covid_usa_cumulative_daily_deaths_confirmed_plt.html)
 
 ## USA: COVID-19 Intearactive 9
-[<img src="https://github.com/Kishore1818/Animations/blob/23edb1db4b53fc699d87ffc37a53d55e16003790/USA_covid/sample_pics/covid_confirmed_dailybars_USA.png">](https://github.com/Kishore1818/Animations/blob/5833ce4df894601beec8a5d84162cd512b20cde9/USA_covid/covid_confirmed_dailybars_USA.html)
+[<img src="https://github.com/Kishore1818/Animations/blob/23edb1db4b53fc699d87ffc37a53d55e16003790/USA_covid/sample_pics/covid_confirmed_dailybars_USA.png">](https://kishore1818.github.io/Animations/USA_covid/covid_confirmed_dailybars_USA.html)
 
 
 ## USA: COVID-19 Intearactive 10
