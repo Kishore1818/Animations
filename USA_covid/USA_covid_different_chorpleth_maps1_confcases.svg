@@ -29,22 +29,22 @@ DE</text>
 <polygon id="hexFL" points="378.0,309.48711305964287 398.0,297.94010767585036 418.0,309.48711305964287 418.0,332.5811238272279 398.0,344.1281292110204 378.0,332.5811238272279" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
 <text id="textFL" x="398.0" y="324.48711305964287" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
 FL</text>
-<polygon id="hexGA" points="399,273.8460969082653 419.0,262.2990915244728 439,273.8460969082653 439,296.9401076758503 419.0,308.4871130596428 399,296.9401076758503" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<polygon id="hexGA" points="399,273.8460969082653 419.0,262.2990915244728 439,273.8460969082653 439,296.9401076758503 419.0,308.4871130596428 399,296.9401076758503" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
 <text id="textGA" x="419.0" y="288.8460969082653" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 GA</text>
 <polygon id="hexHI" points="50.0,309.48711305964287 70.0,297.94010767585036 90.0,309.48711305964287 90.0,332.5811238272279 70.0,344.1281292110204 50.0,332.5811238272279" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#d8daeb;stroke-width:0" />
 <text id="textHI" x="70.0" y="324.48711305964287" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 HI</text>
-<polygon id="hexIA" points="255.0,166.92304845413264 275.0,155.37604307034013 295.0,166.92304845413264 295.0,190.01705922171766 275.0,201.5640646055102 255.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<polygon id="hexIA" points="255.0,166.92304845413264 275.0,155.37604307034013 295.0,166.92304845413264 295.0,190.01705922171766 275.0,201.5640646055102 255.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
 <text id="textIA" x="275.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 IA</text>
-<polygon id="hexID" points="132.0,166.92304845413264 152.0,155.37604307034013 172.0,166.92304845413264 172.0,190.01705922171766 152.0,201.5640646055102 132.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
-<text id="textID" x="152.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
+<polygon id="hexID" points="132.0,166.92304845413264 152.0,155.37604307034013 172.0,166.92304845413264 172.0,190.01705922171766 152.0,201.5640646055102 132.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<text id="textID" x="152.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 ID</text>
-<polygon id="hexIL" points="296.0,166.92304845413264 316.0,155.37604307034013 336.0,166.92304845413264 336.0,190.01705922171766 316.0,201.5640646055102 296.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
+<polygon id="hexIL" points="296.0,166.92304845413264 316.0,155.37604307034013 336.0,166.92304845413264 336.0,190.01705922171766 316.0,201.5640646055102 296.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#fee0b6;stroke-width:0" />
 <text id="textIL" x="316.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 IL</text>
-<polygon id="hexIN" points="337.0,166.92304845413264 357.0,155.37604307034013 377.0,166.92304845413264 377.0,190.01705922171766 357.0,201.5640646055102 337.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<polygon id="hexIN" points="337.0,166.92304845413264 357.0,155.37604307034013 377.0,166.92304845413264 377.0,190.01705922171766 357.0,201.5640646055102 337.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
 <text id="textIN" x="357.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 IN</text>
 <polygon id="hexKS" points="255.0,238.20508075688775 275.0,226.65807537309524 295.0,238.20508075688775 295.0,261.2990915244728 275.0,272.8460969082653 255.0,261.2990915244728" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
@@ -53,8 +53,8 @@ KS</text>
 <polygon id="hexKY" points="317,202.5640646055102 337.0,191.0170592217177 357,202.5640646055102 357,225.65807537309524 337.0,237.20508075688775 317,225.65807537309524" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
 <text id="textKY" x="337.0" y="217.5640646055102" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
 KY</text>
-<polygon id="hexLA" points="276,273.8460969082653 296.0,262.2990915244728 316,273.8460969082653 316,296.9401076758503 296.0,308.4871130596428 276,296.9401076758503" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
-<text id="textLA" x="296.0" y="288.8460969082653" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
+<polygon id="hexLA" points="276,273.8460969082653 296.0,262.2990915244728 316,273.8460969082653 316,296.9401076758503 296.0,308.4871130596428 276,296.9401076758503" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<text id="textLA" x="296.0" y="288.8460969082653" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 LA</text>
 <polygon id="hexMA" points="481,131.2820323027551 501.0,119.7350269189626 521,131.2820323027551 521,154.37604307034013 501.0,165.92304845413267 481,154.37604307034013" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#fee0b6;stroke-width:0" />
 <text id="textMA" x="501.0" y="146.2820323027551" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
@@ -92,23 +92,23 @@ NE</text>
 <polygon id="hexNH" points="501.0,95.64101615137756 521.0,84.09401076758505 541.0,95.64101615137756 541.0,118.73502691896259 521.0,130.2820323027551 501.0,118.73502691896259" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6;stroke-width:0" />
 <text id="textNH" x="521.0" y="110.64101615137756" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
 NH</text>
-<polygon id="hexNJ" points="460.0,166.92304845413264 480.0,155.37604307034013 500.0,166.92304845413264 500.0,190.01705922171766 480.0,201.5640646055102 460.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
+<polygon id="hexNJ" points="460.0,166.92304845413264 480.0,155.37604307034013 500.0,166.92304845413264 500.0,190.01705922171766 480.0,201.5640646055102 460.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#fee0b6;stroke-width:0" />
 <text id="textNJ" x="480.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 NJ</text>
-<polygon id="hexNM" points="214.0,238.20508075688775 234.0,226.65807537309524 254.0,238.20508075688775 254.0,261.2990915244728 234.0,272.8460969082653 214.0,261.2990915244728" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
+<polygon id="hexNM" points="214.0,238.20508075688775 234.0,226.65807537309524 254.0,238.20508075688775 254.0,261.2990915244728 234.0,272.8460969082653 214.0,261.2990915244728" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#fee0b6;stroke-width:0" />
 <text id="textNM" x="234.0" y="253.20508075688775" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 NM</text>
 <polygon id="hexNV" points="153,202.5640646055102 173.0,191.0170592217177 193,202.5640646055102 193,225.65807537309524 173.0,237.20508075688775 153,225.65807537309524" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
 <text id="textNV" x="173.0" y="217.5640646055102" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 NV</text>
-<polygon id="hexNY" points="440,131.2820323027551 460.0,119.7350269189626 480,131.2820323027551 480,154.37604307034013 460.0,165.92304845413267 440,154.37604307034013" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
+<polygon id="hexNY" points="440,131.2820323027551 460.0,119.7350269189626 480,131.2820323027551 480,154.37604307034013 460.0,165.92304845413267 440,154.37604307034013" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#fee0b6;stroke-width:0" />
 <text id="textNY" x="460.0" y="146.2820323027551" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 NY</text>
-<polygon id="hexOH" points="378.0,166.92304845413264 398.0,155.37604307034013 418.0,166.92304845413264 418.0,190.01705922171766 398.0,201.5640646055102 378.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
+<polygon id="hexOH" points="378.0,166.92304845413264 398.0,155.37604307034013 418.0,166.92304845413264 418.0,190.01705922171766 398.0,201.5640646055102 378.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#fee0b6;stroke-width:0" />
 <text id="textOH" x="398.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 OH</text>
-<polygon id="hexOK" points="235,273.8460969082653 255.0,262.2990915244728 275,273.8460969082653 275,296.9401076758503 255.0,308.4871130596428 235,296.9401076758503" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
-<text id="textOK" x="255.0" y="288.8460969082653" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
+<polygon id="hexOK" points="235,273.8460969082653 255.0,262.2990915244728 275,273.8460969082653 275,296.9401076758503 255.0,308.4871130596428 235,296.9401076758503" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<text id="textOK" x="255.0" y="288.8460969082653" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 OK</text>
 <polygon id="hexOR" points="112,202.5640646055102 132.0,191.0170592217177 152,202.5640646055102 152,225.65807537309524 132.0,237.20508075688775 112,225.65807537309524" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#998ec3;stroke-width:0" />
 <text id="textOR" x="132.0" y="217.5640646055102" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
@@ -125,7 +125,7 @@ SC</text>
 <polygon id="hexSD" points="214.0,166.92304845413264 234.0,155.37604307034013 254.0,166.92304845413264 254.0,190.01705922171766 234.0,201.5640646055102 214.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
 <text id="textSD" x="234.0" y="181.92304845413264" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
 SD</text>
-<polygon id="hexTN" points="337.0,238.20508075688775 357.0,226.65807537309524 377.0,238.20508075688775 377.0,261.2990915244728 357.0,272.8460969082653 337.0,261.2990915244728" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7d4011;stroke-width:0" />
+<polygon id="hexTN" points="337.0,238.20508075688775 357.0,226.65807537309524 377.0,238.20508075688775 377.0,261.2990915244728 357.0,272.8460969082653 337.0,261.2990915244728" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
 <text id="textTN" x="357.0" y="253.20508075688775" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
 TN</text>
 <polygon id="hexTX" points="255.0,309.48711305964287 275.0,297.94010767585036 295.0,309.48711305964287 295.0,332.5811238272279 275.0,344.1281292110204 255.0,332.5811238272279" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
@@ -143,10 +143,10 @@ VT</text>
 <polygon id="hexWA" points="112,131.2820323027551 132.0,119.7350269189626 152,131.2820323027551 152,154.37604307034013 132.0,165.92304845413267 112,154.37604307034013" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#7365a6;stroke-width:0" />
 <text id="textWA" x="132.0" y="146.2820323027551" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#e0e0e0">
 WA</text>
-<polygon id="hexWI" points="276,131.2820323027551 296.0,119.7350269189626 316,131.2820323027551 316,154.37604307034013 296.0,165.92304845413267 276,154.37604307034013" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<polygon id="hexWI" points="276,131.2820323027551 296.0,119.7350269189626 316,131.2820323027551 316,154.37604307034013 296.0,165.92304845413267 276,154.37604307034013" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
 <text id="textWI" x="296.0" y="146.2820323027551" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 WI</text>
-<polygon id="hexWV" points="358,202.5640646055102 378.0,191.0170592217177 398,202.5640646055102 398,225.65807537309524 378.0,237.20508075688775 358,225.65807537309524" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#c98c5d;stroke-width:0" />
+<polygon id="hexWV" points="358,202.5640646055102 378.0,191.0170592217177 398,202.5640646055102 398,225.65807537309524 378.0,237.20508075688775 358,225.65807537309524" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#f1a340;stroke-width:0" />
 <text id="textWV" x="378.0" y="217.5640646055102" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#101010">
 WV</text>
 <polygon id="hexWY" points="173.0,166.92304845413264 193.0,155.37604307034013 213.0,166.92304845413264 213.0,190.01705922171766 193.0,201.5640646055102 173.0,190.01705922171766" style="stroke:#ffffff;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill:#b35806;stroke-width:0" />
@@ -163,26 +163,26 @@ WY</text>
 <rect id="legendbox7" x="0" y="82.10000000000001" height="7.800000000000001" width="7.800000000000001" style="fill:#998ec3;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <rect id="legendbox8" x="0" y="91.9" height="7.800000000000001" width="7.800000000000001" style="fill:#d8daeb;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 <text id="legendlabel0" x="11.8" y="20.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-18.0-19.0</text>
+19.0-20.0</text>
 <text id="legendlabel1" x="11.8" y="30.200000000000003" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-16.0-18.0</text>
+17.0-19.0</text>
 <text id="legendlabel2" x="11.8" y="40.0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-15.0-16.0</text>
+16.0-17.0</text>
 <text id="legendlabel3" x="11.8" y="49.800000000000004" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-13.0-15.0</text>
+14.0-16.0</text>
 <text id="legendlabel4" x="11.8" y="59.6" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-12.0-13.0</text>
+12.0-14.0</text>
 <text id="legendlabel5" x="11.8" y="69.4" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-10.0-12.0</text>
+11.0-12.0</text>
 <text id="legendlabel6" x="11.8" y="79.20000000000002" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-9.0-10.0</text>
+9.0-11.0</text>
 <text id="legendlabel7" x="11.8" y="89.00000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-7.0-9.0</text>
+8.0-9.0</text>
 <text id="legendlabel8" x="11.8" y="98.80000000000001" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;alignment-baseline:middle">
-6.0-7.0</text>
+6.0-8.0</text>
 <text id="legendtitle" x="0" y="0" style="font-style:normal;font-weight:normal;font-size:12px;line-height:125%;text-anchor:left;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
 Confirmed (%)</text>
 </g>
 <text id="title" x="305.5" y="30" style="font-style:normal;font-weight:normal;font-size:19;line-height:125%;text-anchor:middle;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill:#000000">
-COVID-19 Each State Confirmed Cases (3/20/20 - 10/29/21)</text>
+COVID-19 Each State Confirmed Cases (3/20/20 - 11/13/21)</text>
 </svg>
